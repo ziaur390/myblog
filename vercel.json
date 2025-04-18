@@ -1,0 +1,6 @@
+{
+    "buildCommand": "zola build",
+    "outputDirectory": "public",
+    "framework": null
+  }
+  
